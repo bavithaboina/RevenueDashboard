@@ -81,7 +81,7 @@ For calculating any percentage change
                * weekend - Friday,Saturday
                * weekday - other days
    * **Dynamic Pricing** : Change the price dynamically based on occupancy,competition rates or any other factors that frequently change and effect the hotels revenue
-## 2. DIFFERENTIAL PRICING (between the channels)
+## 2. DIFFERENTIAL PRICING (between the channels) :
    
    You can observe that the revenue realized from your channel is almost same as the revenue generated from other channels. Most owners,hotels,business sell the cheapest on their own channel so that they can increase the bookings from their own channel .Because if the booking is from some other channel then the hotel has to pay some comission to that channel. So if the booking is from your channel you can save the money that is going as commision to someone else.So hotels incorporate differential pricing based on the channel.They try to give discount coupons or complemetaries or any other promotional offer to encourage customers to book from the hotel's channel.So this can be incorporated in Atliq Grand.
    
