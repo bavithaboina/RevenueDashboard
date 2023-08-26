@@ -72,6 +72,17 @@ For calculating any percentage change
 
 ### IMPORTANT INSIGHTS 
 ## 1. PRICING STRATEGY :
+    <div style="display: flex;">
+  <div style="flex: 1;">
+     You can observe that RevPar is changing in accordance with occupancy%  and ADR is almost constant.
+   Therefore it means the pricing strategy used is flat pricing .So there is a room to incorporate any other pricing strategy like weekday/weekend Pricing or Dynamic Pricing
+   * **Weekday/Weekend Pricing** : Set the price based on the day whether it is weekday or weekend.Generally on weekends the price is ususally high.So you can set accordingly.
+     
+       NOTE : In hotels
+               * weekend - Friday,Saturday
+               * weekday - other days
+   * **Dynamic Pricing** : Change the price dynamically based on occupancy,competition rates or any other factors that frequently change and effect the hotels revenue
+  </div>
    <div align="right" >
     <img height:"50" width:"50" src="https://github.com/bavithaboina/RevenueDashboard/blob/main/img/trend_by_key_metrics.jpg">
     </div>
