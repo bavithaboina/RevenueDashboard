@@ -92,11 +92,12 @@ For calculating any percentage change
    
 ## 3. Highest Performing and Least performing:
     
-    <div align="right" >
+    <div >
     <img height:"50" width:"30" src="https://github.com/bavithaboina/RevenueDashboard/blob/main/img/highest_performinh.jpg">
+    <img height:"50" width:"30" src="https://github.com/bavithaboina/RevenueDashboard/blob/main/img/least_performing.jpg">
     </div>
     
-    <div align="left">
+    <div >
     <img height:"50" width:"30" src="https://github.com/bavithaboina/RevenueDashboard/blob/main/img/least_performing.jpg">
     </div>
    Checkout whats going wrong with the least performing hotels ,check the average ratings given to the least performing hotels.Read the reviews.Find out if the service is bad or the ambience is bad or any other reason that is leading to less revenue from the hotel .Talk to the management of these least performing and try to take strategic decisions
