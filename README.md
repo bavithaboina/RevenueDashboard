@@ -23,7 +23,7 @@ Data Analysts are needed to provide insights from the historical data.
 
 ### DATA MODEL:
 <div align="center" >
-<img height:"100" width:"100" src="https://github.com/bavithaboina/SalesInsightsDashboard/blob/main/images/Sales_Insights_DataModel.png">
+<img height:"100" width:"100" src="https://github.com/bavithaboina/RevenueDashboard/blob/main/img/Reveue_dashboard_data_model.jpg">
 </div>
 
 ### Steps followed in this project:
