@@ -67,7 +67,7 @@ For calculating any percentage change
 
 ### DASHBOARD 
 <div align="center">
-<img src="https://github.com/bavithaboina/RevenueDashboard/blob/main/img/Revenue%20Dashboard%20(Hospitality%20Domain).jpg"  />
+<img src="https://github.com/bavithaboina/RevenueDashboard/blob/main/img/Dashboard.jpg"  />
 </div>
 
 ### IMPORTANT INSIGHTS 
