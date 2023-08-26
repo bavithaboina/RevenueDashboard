@@ -67,7 +67,7 @@ For calculating any percentage change
 
 ### DASHBOARD 
 <div align="center">
-<img src="https://github.com/bavithaboina/RevenueDashboard/blob/main/img/Microsoft%20Power%20BI%20-%20Google%20Chrome%202023-08-26%2011-19-13.mp4"  />
+<img src="https://github.com/bavithaboina/RevenueDashboard/blob/main/img/Revenue%20Dashboard%20(Hospitality%20Domain).jpg"  />
 </div>
 
 ### IMPORTANT INSIGHTS 
