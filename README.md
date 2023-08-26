@@ -95,7 +95,7 @@ For calculating any percentage change
     <img height:"50" width:"50" src="https://github.com/bavithaboina/RevenueDashboard/blob/main/img/least_performing.jpg">
 </div>
     
-   Checkout whats going wrong with the least performing hotels ,check the average ratings given to the least performing hotels.Read the reviews.Find out if the service is bad or the ambience is bad or any other reason that is leading to less revenue from the hotel .Talk to the management of these least performing and try to take strategic decisions
+   Checkout what's going wrong with the least performing hotels ,check the average ratings given to the least performing hotels.Read the reviews.Find out if the service is bad or the ambience is bad or any other reason that is leading to less revenue from the hotel .Talk to the management of these least performing and try to take strategic decisions
    
 
 ## 4. Highest Performing : 
@@ -103,7 +103,7 @@ For calculating any percentage change
     <img  height:"50" width:"50" src="https://github.com/bavithaboina/RevenueDashboard/blob/main/img/highest_performinh.jpg">
 </div>              
 
- Checkout whats going right with the highest performing hotels.Try to incorporate those features in other hotels so that they can also perform as good as the highest perfroming hotels.
+ Checkout what's going right with the highest performing hotels.Try to incorporate those features in other hotels so that they can also perform as good as the highest perfroming hotels.
 
 
 
