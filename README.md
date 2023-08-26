@@ -92,8 +92,8 @@ For calculating any percentage change
    
 ## 3. Highest Performing and Least performing:
   <div>
-    <img  src="https://github.com/bavithaboina/RevenueDashboard/blob/main/img/highest_performinh.jpg">
-    <img  src="https://github.com/bavithaboina/RevenueDashboard/blob/main/img/least_performing.jpg">
+    <img  height:"50" src="https://github.com/bavithaboina/RevenueDashboard/blob/main/img/highest_performinh.jpg">
+    <img height:"50" src="https://github.com/bavithaboina/RevenueDashboard/blob/main/img/least_performing.jpg">
 </div>
     
     <div >
