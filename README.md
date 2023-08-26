@@ -90,19 +90,20 @@ For calculating any percentage change
     </div>
    You can observe that the revenue realized from your channel is almost same as the revenue generated from other channels. Most owners,hotels,business sell the cheapest on their own channel so that they can increase the bookings from their own channel .Because if the booking is from some other channel then the hotel has to pay some comission to that channel. So if the booking is from your channel you can save the money that is going as commision to someone else.So hotels incorporate differential pricing based on the channel.They try to give discount coupons or complemetaries or any other promotional offer to encourage customers to book from the hotel's channel.So this can be incorporated in Atliq Grand.
    
-## 3. Highest Performing and Least performing:
-  <div>
-    <img  height:"50" src="https://github.com/bavithaboina/RevenueDashboard/blob/main/img/highest_performinh.jpg">
-    <img height:"50" src="https://github.com/bavithaboina/RevenueDashboard/blob/main/img/least_performing.jpg">
+## 3. Least performing:
+  <div align="center">
+    <img height:"50" width:"50" src="https://github.com/bavithaboina/RevenueDashboard/blob/main/img/least_performing.jpg">
 </div>
     
-    <div >
-    <img height:"50" width:"30" src="https://github.com/bavithaboina/RevenueDashboard/blob/main/img/least_performing.jpg">
-    </div>
    Checkout whats going wrong with the least performing hotels ,check the average ratings given to the least performing hotels.Read the reviews.Find out if the service is bad or the ambience is bad or any other reason that is leading to less revenue from the hotel .Talk to the management of these least performing and try to take strategic decisions
-   Checkout whats going right with the highest performing hotels.Try to incorporate those features in other hotels so that they can also perform as good as the highest perfroming hotels.
-                   
+   
 
+## 4. Highest Performing : 
+<div align="center">
+    <img  height:"50" width:"50" src="https://github.com/bavithaboina/RevenueDashboard/blob/main/img/highest_performinh.jpg">
+</div>              
+
+ Checkout whats going right with the highest performing hotels.Try to incorporate those features in other hotels so that they can also perform as good as the highest perfroming hotels.
 
 
 
